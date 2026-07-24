@@ -14,7 +14,7 @@ Here are three traps to start. Read them, then add your own at the bottom.
 
 Add one trap you've actually run into. Give it a short name and one plain sentence.
 
-- **(Perfectionism).** I spend too much time trying to make everything perfect instead of finishing the task.
+- **(Perfectionism).** I spend too much time trying to make everything perfect instead of trying to finish the task.
 
 ---
 
